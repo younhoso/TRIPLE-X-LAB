@@ -14,7 +14,7 @@ $(document).ready(function() {
     function open(){
         anime({
             targets:'.pc_gn_wrpper .anima',
-            translateX: 1230,
+            translateX: 1777,
             easing:'easeInOutBack',
             duration:function(anima, index, totaltargets){
                 return 500 + (index * 200);
