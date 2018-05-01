@@ -12,6 +12,18 @@ $(document).ready(function() {
         }
     }
     });
+    
+    // $('.scrolldown a, .scrolldown.down, .scroll.down').on('click',function() {
+    //     try {
+    //         $.fu.fullpage.moveSectionDown();
+    //     } catch (error){
+    //         $('html, body').animate({
+    //             scrollTop: window.innerHeight
+    //         }, 400, function () {
+    //         });
+    //     }
+    // });
+
     function open(){
         anime({
             targets:'.pc_gn_wrpper .anima',
