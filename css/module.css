@@ -1,0 +1,58 @@
+/* 
+-------------------
+    CSS RESET
+-------------------
+*/
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video { margin:0; padding:0; border:0; outline:0; font-size:100%; vertical-align:baseline;
+border-collapse: collapse;}
+body {line-height:1;}
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {display:block;}
+ul li{list-style:none;}
+a {margin: 0; padding: 0; border: 0; vertical-align: baseline; background: transparent; text-decoration: none; color: inherit; display: inline-block;}
+img {vertical-align:top;}
+.clearfix:after{content: "";display: block;clear: both;}
+.clear         {clear: both;}
+/*=========GRID SYSTEM=========*/
+.l_wrapper     {max-width: 1200px;margin: 0 auto;padding: 0 10px;position:relative;}
+.l_row         {margin: 0 10px; overflow: hidden;}
+/*=========table SYSTEM=========*/
+.vertical_center {display: table-cell;vertical-align: bottom; text-align: center;}
+/*=========Thumbnail img=========*/
+.thumb {width:100%;height:auto;display:block;}
+[class*="l_col_"] {width: 100%;float: left;padding: 0 10px;-webkit-box-sizing: border-box;box-sizing: border-box;}
+.l_col_right {float: right;}
+.l_col_fit  {padding: 0;}
+/*=========Grid CSS=========*/
+@media only screen and (min-width:320px) {
+    [class*="l_col_"] {padding: 0;}
+}
+@media only screen and (min-width:768px) {
+    [class*="l_col_"] {width: 50%; padding: 10px;}
+}
+@media (min-width:1024px){
+.l_col_1  {width: 8.33%;}
+.l_col_2  {width: 16.66%;}
+.l_col_3  {width: 25%;}
+.l_col_4  {width: 33.33%;}
+.l_col_5  {width: 41.66%;}
+.l_col_6  {width: 50%;}
+.l_col_7  {width: 58.33%;}
+.l_col_8  {width: 66.66%;}
+.l_col_9  {width: 75%;}
+.l_col_10 {width: 83.33%;}
+.l_col_11 {width: 91.66%;}
+.l_col_12 {width: 100%;}
+.l_col_13 {width: 20%;}
+}/*Desktop MEDIA QUERY END*/
