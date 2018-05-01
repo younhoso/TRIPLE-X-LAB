@@ -1,5 +1,6 @@
 $(document).ready(function() {
 	$('.fullpage').fullpage({
+        'navigation': true,
         onLeave: function(anchor, index){
             if($('.fp-section.active')) {
             $(this).find('.dis').fadeOut(300);
