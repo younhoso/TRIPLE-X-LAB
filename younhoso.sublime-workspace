@@ -1,0 +1,791 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"index"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"va",
+				"val\t.val()"
+			],
+			[
+				"td",
+				"td-n\ttext-decoration: none;"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"inner",
+				"innerHTML속성명=값"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"type",
+				"type"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"no",
+				"no-repeat\tbackground-repeat"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"po",
+				"pointer\tcursor"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"ta",
+				"table\tdisplay"
+			],
+			[
+				"bo",
+				"both\tclear"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"su",
+				"sum2"
+			],
+			[
+				"right",
+				"iis_get_server_rights"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ani",
+				"anime"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ri",
+				"relative"
+			],
+			[
+				"y",
+				"younhoso.co.kr"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"bg",
+				"bg_2\t(style.less)"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"eae",
+				"ease-in-out"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fad",
+				"fadeToggle\t.fadeToggle()"
+			],
+			[
+				"img",
+				"image\t(index.html)"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"none",
+				"none"
+			],
+			[
+				"pos",
+				"position\t(style.less)"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"togg",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"hover",
+				"hover\t(style.less)"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"lo",
+				"lottie.js"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"sec",
+				"section"
+			],
+			[
+				"en",
+				"endpoint"
+			],
+			[
+				"cli",
+				"click\t.click()"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"de",
+				"default.js"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"am",
+				"animate\t.animate()"
+			],
+			[
+				"red",
+				"ready\tjQuery(document).ready"
+			],
+			[
+				"scri",
+				"script"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"js",
+				"js3\t(jquery.sublime-snippet)"
+			],
+			[
+				"ob",
+				"obj"
+			],
+			[
+				"pope",
+				"property"
+			],
+			[
+				"box",
+				"box-sizing"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/module.css",
+			"settings":
+			{
+				"buffer_size": 2141,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LESS-build/LESS.sublime-build",
+					""
+				],
+				[
+					"Packages/LESS-build/LESS.sublime-build",
+					"Minify"
+				]
+			],
+			[
+				"Packages/LESS-build/LESS.sublime-build",
+				"Minify"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					"JavaDoc"
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					"JAR"
+				]
+			],
+			[
+				"Packages/User/Java.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Java.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/java/Java.sublime-build",
+					""
+				],
+				[
+					"Packages/java/Java.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/java/Java.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Snippet: ",
+				"Snippet: css"
+			],
+			[
+				"PackageResourceViewer",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs"
+	],
+	"file_history":
+	[
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/css/style.less",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/index.php",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/test.html",
+		"/Users/soyunho/_kic/6.일차(자바스크립트의 이벤트처리 및 DOM사용방법)/test.sublime-project",
+		"/Users/soyunho/_kic/6.일차(자바스크립트의 이벤트처리 및 DOM사용방법)/테이블에 행을 추가(8)2.html",
+		"/Users/soyunho/_kic/6.일차(자바스크립트의 이벤트처리 및 DOM사용방법)/테이블에 행을 추가(8).html",
+		"/Users/soyunho/_kic/6.일차(자바스크립트의 이벤트처리 및 DOM사용방법)/DOM2(동적버튼 추가)(6)-2.html",
+		"/Users/soyunho/Downloads/_remain jQuery+JavaScript/07:29 chapter05~06/index 1.html",
+		"/Users/soyunho/Downloads/_remain jQuery+JavaScript/08:13 chapter10/index1.html",
+		"/Users/soyunho/Downloads/_remain jQuery+JavaScript/last_mission/last_mission/jquery_movie_portfolio_mission.html",
+		"/Users/soyunho/Downloads/_remain jQuery+JavaScript/08:19 chapter11/index1.html",
+		"/Users/soyunho/_kic/6.일차(자바스크립트의 이벤트처리 및 DOM사용방법)/DOM2(동적버튼 추가)(6).html",
+		"/Users/soyunho/_kic/6.일차(자바스크립트의 이벤트처리 및 DOM사용방법)/DOM을 이용해서 스타일변경(7).html",
+		"/Users/soyunho/Downloads/_remain jQuery+JavaScript/08:20 chapter12/03.실습/02.jquery_each_html.html",
+		"/Users/soyunho/Downloads/_remain jQuery+JavaScript/08:19 chapter11/index2.html",
+		"/Users/soyunho/Desktop/6.(자바스크립트의 이벤트처리 및 DOM 사용법)/8.테이블에 행을 추가(8).html",
+		"/Users/soyunho/Desktop/6.일차(자바스크립트의 이벤트처리 및 DOM사용방법)/DOM2(6).html",
+		"/Users/soyunho/Desktop/6.일차(자바스크립트의 이벤트처리 및 DOM사용방법)/테이블에 행을 추가(8).html",
+		"/Users/soyunho/Desktop/6.일차(자바스크립트의 이벤트처리 및 DOM사용방법)/DOM을 이용해서 스타일변경(7).html",
+		"/Users/soyunho/Desktop/6.일차(자바스크립트의 이벤트처리 및 DOM사용방법)/DOM을 이용해서 스타일변경(8).html",
+		"/Users/soyunho/Desktop/6.일차(자바스크립트의 이벤트처리 및 DOM사용방법)/DOM1(5).html",
+		"/Users/soyunho/eclipse-workspace/JAVA/src/co/kr/Number.java",
+		"/Users/soyunho/Library/Application Support/Sublime Text 3/Packages/User/Java.sublime-build",
+		"/Users/soyunho/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/soyunho/Desktop/test java/test.java",
+		"/Users/soyunho/Library/Application Support/Sublime Text 3/Packages/User/Javac.sublime-build",
+		"/Users/soyunho/Desktop/_kic/5.일차 자바스크립트언어의 작성법(변수,연산자,제어문,함수 작성법)/계산문제(합계)(7).html",
+		"/Users/soyunho/Desktop/_kic/5.일차 자바스크립트언어의 작성법(변수,연산자,제어문,함수 작성법)/함수의 선언 및 호출(4).html",
+		"/Users/soyunho/Desktop/_kic/5.일차 자바스크립트언어의 작성법(변수,연산자,제어문,함수 작성법)/함수의 선언및 호출유형(5).html",
+		"/Users/soyunho/Desktop/_kic/5.일차 자바스크립트언어의 작성법(변수,연산자,제어문,함수 작성법)/자바스트립트변수 및 내장함수사용법(1).html",
+		"/Users/soyunho/Desktop/_kic/5.일차 자바스크립트언어의 작성법(변수,연산자,제어문,함수 작성법)/연산자(산술,관계)(2).html",
+		"/Users/soyunho/Desktop/_kic/5.일차 자바스크립트언어의 작성법(변수,연산자,제어문,함수 작성법)/연산자2(논리연산자)(3).html",
+		"/Users/soyunho/youn_ho_so/+css(초기화,그리드,bttn)/Younho_Plugin/css/style.css",
+		"/Users/soyunho/youn_ho_so/+css(초기화,그리드,bttn)/Younho_Plugin/css/module.css",
+		"/Users/soyunho/Desktop/_kic/2.일차(html5의 웹폼,멀티미디어,CSS의 개요및 작성법)/html5에서 추가된 속성(7).html",
+		"/Users/soyunho/Desktop/test/tset.java",
+		"/Users/soyunho/Desktop/test/untitled.java",
+		"/Users/soyunho/Desktop/test/bash",
+		"/Users/soyunho/Desktop/무제 폴더/untitled.java",
+		"/Users/soyunho/Desktop/untitled.java",
+		"/Users/soyunho/eclipse-workspace/JAVA/bin/kr/co/younhoso/eclipse/HellowJava.class",
+		"/Users/soyunho/Desktop/ee.java",
+		"/Users/soyunho/Library/Application Support/Sublime Text 3/Packages/User/JavaC.sublime-build",
+		"/Volumes/소윤호 2TB/소윤호/+Web Design(코딩 작업)/_kic/강사님 자료/화면구현과제 sample/main.html",
+		"/Volumes/소윤호 2TB/소윤호/+Web Design(코딩 작업)/_kic/강사님 자료/화면구현과제 sample/css/main.css",
+		"/Volumes/소윤호 2TB/소윤호/+Web Design(코딩 작업)/_kic/강사님 자료/화면구현과제 sample/css/main-1.css",
+		"/Users/soyunho/Downloads/grid-pixar (1)/style.css",
+		"/Users/soyunho/Downloads/grid-pixar (1)/index.html",
+		"/Users/soyunho/Desktop/grid-pixar 2/index.html",
+		"/Users/soyunho/youn_ho_so/+css(초기화,그리드,bttn)/css 원본/+module(원본).css",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/header.php",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/js/main.js",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/css/module.css",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/css/style.min.css",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/dev_test/time.php",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/dev_test/ajax_test.html",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/m/header.php",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/m/index.php",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/sub.php",
+		"/Users/soyunho/Desktop/TRIPLE-X-LAB/index/index.php",
+		"/Users/soyunho/Desktop/TRIPLE-X-LAB/index/sub.php",
+		"/Users/soyunho/Desktop/TRIPLE-X-LAB/index/d_pro/index.php",
+		"/Users/soyunho/Desktop/TRIPLE-X-LAB/index/header.php",
+		"/Users/soyunho/Desktop/TRIPLE-X-LAB/index/index.html",
+		"/Users/soyunho/Desktop/hello.js",
+		"/Users/soyunho/Library/Application Support/Sublime Text 3/Packages/User/node-custom.sublime-build",
+		"/Users/soyunho/Desktop/type/Untitled-1.java",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/index/data/JavaScript",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/index/index.php",
+		"/Users/soyunho/Desktop/index.html",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/index/funtion2.php",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/index/result.txt",
+		"/Users/soyunho/eclipse-workspace/JAVA/src/java/test/helloworld.java",
+		"/Users/soyunho/Desktop/test/untitled.js",
+		"/Users/soyunho/Desktop/gnuboard5.3.1/theme/basic/index.php",
+		"/Users/soyunho/Desktop/gnuboard5.3.1/theme/basic/tail.php",
+		"/Users/soyunho/Desktop/gnuboard5.3.1/theme/basic/head.sub.php",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/themes/generatepress/register-form.php",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/plugins/theme-my-login/templates/register-form.php",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/index/data/php",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/index/loop.php",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/index/array.php",
+		"/Users/soyunho/Desktop/gnuboard5.3.1/theme/basic/head.php",
+		"/Users/soyunho/Desktop/gnuboard5.3.1/theme/basic/skin/board/basic/list.skin.php",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/plugins/wp-swiper-slider/assets/js/gallery_metabox.js",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/plugins/wp-swiper-slider/assets/js/wp_swiper_script.js",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/plugins/wp-swiper-slider/assets/metabox_helper/js/date.js",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/plugins/wp-swiper-slider/assets/metabox_helper/js/autocomplete.js",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/plugins/wp-swiper-slider/assets/metabox_helper/css/file.css",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/plugins/wp-swiper-slider/assets/js/swiper.jquery.min.js",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/themes/generatepress/header.php",
+		"/Users/soyunho/Desktop/TRIPLE-X-LAB/index/css/style.less",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/plugins/simple-custom-css/includes/css/editor.css",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/themes/generatepress/style.css",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/themes/generatepress/main.css",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/themes/generatepress/rtl.css",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/themes/twentyseventeen/index.php",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/themes/twentyseventeen/test.php",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/themes/twentyseventeen/page.php",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/themes/twentyseventeen/functions.php",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/themes/twentyseventeen/custom.css",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/themes/twentyseventeen/style.css",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/themes/twentyseventeen/header.php",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/themes/twentyseventeen/template-parts/header/header-image.php",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/wp-content/themes/twentyseventeen/main.css",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/funtion.php",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/data/JavaScript",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/data/html",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/data/html.php",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/data/JavaScripts",
+		"/Applications/mampstack-7.1.16-0/apache2/htdocs/data/css",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/function.php",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/index1.php",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/sftp-config.json",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/parditer.php",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/test.html",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/test,html",
+		"/Applications/wordpress-4.9.5-1/apps/wordpress/htdocs/index.php",
+		"/Users/soyunho/Desktop/TRIPLE-X-LAB/index/m/js/main.js",
+		"/Users/soyunho/Desktop/TRIPLE-X-LAB/index/m/index.html",
+		"/Users/soyunho/Desktop/TRIPLE-X-LAB/index/m/css/style.less",
+		"/Users/soyunho/Desktop/8index.html",
+		"/Users/soyunho/Desktop/TRIPLE-X-LAB/index/js/main.js",
+		"/Users/soyunho/Desktop/TRIPLE-X-LAB/index/css/jquery.fullPage.css",
+		"/Users/soyunho/Desktop/index_head.php",
+		"/Users/soyunho/Desktop/head.php",
+		"/Users/soyunho/Downloads/design_26332/page.1.css"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/module.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								847,
+								862
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"git_gutter_is_enabled": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 8.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 73.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 205.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 371.0
+	},
+	"pinned_build_system": "",
+	"project": "younhoso.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main.js",
+				"d_pro/js/main.js"
+			],
+			[
+				"js",
+				"js/main.js"
+			],
+			[
+				"index",
+				"d_pro/index.php"
+			],
+			[
+				"de",
+				"d_pro/detail.php"
+			],
+			[
+				"style",
+				"css/style.min.css"
+			],
+			[
+				"",
+				"~/Desktop/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/mampstack-7.1.16-0/apache2/htdocs/younhoso.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

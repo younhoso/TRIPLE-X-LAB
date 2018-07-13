@@ -5,7 +5,6 @@
 
 html,body {height: 100%;}
 body {overflow-x: hidden;}
-
 /*
 ----------------------------------
             웹폰트
@@ -14,7 +13,7 @@ body {overflow-x: hidden;}
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 @import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,700,800,900');
-
+ 
 /*
 ----------------------------------
         FONT SYSTEM
@@ -170,13 +169,15 @@ p,td {line-height: 1.8;}
     .header_design {
         width: 65px;
         .hamber {
-            width: 55px;
-            margin: 0 auto;
-            padding: 0 10px; /*햄버거 레퍼*/
-            height: 100%;
-            position: fixed;
-            z-index: 99;
-            background-color: #fff;
+                width: 55px;
+                margin: 0 auto;
+                padding: 0 10px; /*햄버거 래퍼*/
+                height: 92%;
+                position: fixed;
+                top: 42px;
+                left: 0;
+                z-index: 99;
+                background-color: #fff;
             opacity: 0.10;
             .transition(all .2s ease-in-out) ;
             img {
@@ -214,13 +215,14 @@ p,td {line-height: 1.8;}
         }
         .hamber:hover {
             opacity: 1;
-            
         }
     }
+
    .menu_box_container {
         width: 62vw;
+        height: 92%;
         position: absolute;
-        top: 0;
+        top: 42px;
         left: -1777px;
         bottom: 0;
         z-index: 99;
@@ -306,16 +308,16 @@ p,td {line-height: 1.8;}
                     
                 }
                 div.menu_box_wrap {
-                    width: 55px;
-                    margin: -3px auto;
-                    padding: 3px 10px;
-                    height: 100%;
-                    position: absolute;
-                    top: 0;
-                    right: -70px;
-                    background-color: #fff;
-                    border: 1px solid rgba(238, 238, 238, 0.6);
-                    z-index: -9;
+                        width: 55px;
+                        margin: -3px auto;
+                        padding: 3px 10px;
+                        height: 99.4%;
+                        position: absolute;
+                        top: 2px;
+                        right: -70px;
+                        background-color: #fff;
+                        border: 1px solid rgba(238,238,238,0.6);
+                        z-index: -9;    
                     .menu_box {
                         width: 650%;
                         position: absolute;
@@ -366,7 +368,6 @@ p,td {line-height: 1.8;}
         top: 50%;
         z-index: 1;
         color: #fff;
-        display: none;
         .line {
             width: 120px;
             height: 1px;
@@ -382,6 +383,29 @@ p,td {line-height: 1.8;}
         }
     }
 }
+
+@media only screen and (min-width: 768px){
+    .login {
+        position:absolute;
+        top: 80px;
+        right: 0;
+        z-index:9;
+    }
+    .login li {
+        float: left;
+        &:nth-child(1) {
+            padding: 0 25px 0 0;
+        }
+        &:last-child {
+            padding: 0 0 0 25px;
+            a {
+                width: 15px;
+                img{width:100%;}
+            }
+        }
+    }
+}
+
 
 /*
 ------------------------------------------------------
@@ -452,7 +476,7 @@ p,td {line-height: 1.8;}
     ::-webkit-selection{background:#fc2360; color:#fff;} 
         .bg_img_first {
             height: 100%;
-            background-image: url(../image/bg_2.jpg);
+            background-image: url(../image/1.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center center;
@@ -588,7 +612,7 @@ p,td {line-height: 1.8;}
         background-image: url(../image/3.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        background-position: left center;
+        background-position: center center;
         color:#fff;
         .fp-tableCell {
             vertical-align: bottom;

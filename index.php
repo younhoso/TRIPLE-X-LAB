@@ -2,7 +2,7 @@
 <!--pc 햄버거 디자인-->
 <header class="header_design">
     <div class="hamber">
-        <a href="index.html"><img src="./image/triplexlab_LOGO.svg" alt="triplexlab_LOGO"/></a>
+        <a href="index.php"><img src="./image/triplexlab_LOGO.svg" alt="triplexlab_LOGO"/></a>
         <div class="vertical">
             <div class="vertical_center">
                 <a href="#">
@@ -13,7 +13,15 @@
             </div>
         </div>
     </div>
-</header>
+</header> 
+<!-- login 구조 -->
+<div class="l_wrapper">
+	<ul class="login clearfix">
+		<li><a href="#">LOGIN</a></li>
+		<li><a href="#">SIGN UP</a></li>
+		<li><a href="#"><i class="icon-search"></i></a></li>
+	</ul>
+</div>
 
 <!--PC디자인-->
 <div class="pc_design">
@@ -30,7 +38,7 @@
                         <h3>ABOUT US</h3>
                         <p>INTRODUCTION</p>
                         <div class="img_wrap">
-                            <a href="sub.php"><div class="img" style="background-image: url(image/bg_2.jpg);"></div></a>
+                            <a href="#" onclick="DelayNext();"><div class="img" style="background-image: url(image/1.jpg);"></div></a>
                         </div>
                         <p class="txt_sum">HTML5, CSS3, LESS, Jquery, JS 에 관련한 거의 모든 웹퍼블리싱 기술을 보유하고 있으며, "JavaScript (node.js)"</p>
                     </div>
@@ -43,7 +51,7 @@
                         <h3>WORKS</h3>
                         <p>INTRODUCTION</p>
                         <div class="img_wrap">
-                            <a target="_blank" href="http://younhoso.co.kr/index/d_pro"><div class="img" style="background-image: url(image/2.jpg);"></div></a>
+                            <a target="_blank" href="http://younhoso.co.kr/d_pro/index.php"><div class="img" style="background-image: url(image/2.jpg);"></div></a>
                         </div>
                         <p class="txt_sum">기존에 있던 CERSHOME 홈페이지를 개선 하여 리뉴얼 했습니다.</p>
                     </div>
@@ -92,7 +100,7 @@
         </ul>
     </div>
 <!--햄버거 닫임 디자인-->
-    <div class="close_btn">
+    <div class="close_btn" style="display: none;">
         <div class="line"></div>
         <div class="linee"><p><a href="#">CLOSE</a></p></div>
     </div>
@@ -130,22 +138,6 @@
                         <p>담백하고 직관적인 디자인, 유연하고 확장 가능한 디자인, 유니크한 디자인 3가지 모토로
                             작업하는것이 저의 TRIPLE X LAB의 철학입니다.
                         </p>
-                    </div>
-                </div>
-                <div class="second_list_wrapper" style="display: none;">
-                    <div style="display: none;" class="second_list_inner owl-carousel items owl-theme dis">
-                        <div class="item">
-                            <a href="#0"><img src="./image/second_list1.png" alt="리스트 이미지"></a>
-                            <p class="tit_24">CERESHOME</p>
-                        </div>
-                        <div class="item">
-                            <a href="#0"><img src="./image/second_list.png" alt="리스트 이미지"></a>
-                            <p class="tit_24">kdnkvnksdnvkn</p>
-                        </div>
-                        <div class="item">
-                            <a href="#0"><img src="./image/second_list.png" alt="리스트 이미지"></a>
-                            <p class="tit_24">ndnvnkvnknk</p>
-                        </div>
                     </div>
                 </div>
                 <!-- Arrows Scroll down -->
@@ -200,5 +192,14 @@
     <script src="./js/owl.carousel.min.js"></script>
     <script src="./js/vanilla-tilt.min.js"></script>
     <script type="text/javascript" src="./js/main.js"></script>
+    <script>
+	    /*윈도우 도큐먼트 창 딜레이 속도 조절 하는 함수*/
+	    function NextClick() {
+	        window.open('sub.php','_self');
+	    };
+	    function DelayNext() {
+	        window.setTimeout(NextClick, 1500);
+	    };
+    </script>
 	</body>
 </html>
