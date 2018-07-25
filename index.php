@@ -6,7 +6,7 @@
         <div class="vertical">
             <div class="vertical_center">
                 <a href="#">
-                    <div class="hamberger"></div>
+                    
                     <div class="hamberger"></div>
                     <div class="hamberger"></div>
                 </a>
